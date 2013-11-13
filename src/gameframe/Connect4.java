@@ -48,6 +48,10 @@ public class Connect4
   public void testFunktion(){
     System.out.println("hallo");
   }
+  
+   public void testFunktion3(){
+    System.out.println("hallo");
+  }
 	/**
 	 * In dieser Methode wird überprueft, ob ein Spieler gewonnen hat.
 	 * @return
