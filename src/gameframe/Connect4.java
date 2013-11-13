@@ -45,6 +45,9 @@ public class Connect4
 		}		
 		return status;
 	}
+  public void testFunktion(){
+    System.out.println("hallo");
+  }
 	/**
 	 * In dieser Methode wird überprueft, ob ein Spieler gewonnen hat.
 	 * @return
